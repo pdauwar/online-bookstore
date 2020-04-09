@@ -10,5 +10,5 @@ public class OnlineBookstoreAppApplication {
 		SpringApplication.run(OnlineBookstoreAppApplication.class, args);
 		System.out.println("running");
 	}
-
+	
 }
